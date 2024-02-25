@@ -7,7 +7,9 @@
 ## Feladat 2
 
 ![](f2_2.png)
+
 ![](f2.png)
+
 ![](f2_3.png)
 
 ## Feladat 3
@@ -16,6 +18,7 @@
 
 ## Feladat 4
 
+![](f4_2.png)
 ![](f4.png)
 
 ## Feladat 5
