@@ -20,16 +20,3 @@
 
 ![](f5.png)
 
-## Feladat 6
-
-![](f6.png)
-
-## Feladat 7
-
-![](f7.png)
-
-## Feladat 8
-
-![](f8.png)
-
- 
