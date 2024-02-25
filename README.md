@@ -6,7 +6,9 @@
 
 ## Feladat 2
 
+![](f2_2.png)
 ![](f2.png)
+![](f2_3.png)
 
 ## Feladat 3
 
