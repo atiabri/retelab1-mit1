@@ -32,4 +32,4 @@
 
 ![](f8.png)
 
-Magyarázat: A Logcat panelt az alsó menüben találtam meg.
+ 
